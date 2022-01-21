@@ -137,6 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .logo a span {
   color: #ffc451;
+  font-family: cursive;
 }
 #header .logo img {
   width: 70px;
