@@ -67,53 +67,107 @@
 
     </div>
   </header><!-- End Header -->
+  
+  <!-- ======= hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center justify-content-center">
-    <div class="container" data-aos="fade-up">
+        <ol id="hero-carousel-indicators" class="carousel-indicators"></ol>
 
-      <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-        <div class="col-xl-6 col-lg-8">
-          <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
-          <h2>Do ondulado, crespo e cacheado</h2>
+        <div class="carousel-inner" role="listbox">
+
+          <div class="carousel-item active" style="background-image: url(assets/img/hero-carousel/1.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/2.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/3.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/4.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+
+          <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/5.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="carousel-item" style="background-image: url(assets/img/hero-carousel/6.jpg)">
+            <div class="carousel-container">
+              <div class="container">
+                <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+					<div class="col-xl-6 col-lg-8">
+					  <h1>Ativando a Curvatura do seu Hair<span>.</span></h1>
+					  <h2>Do ondulado, crespo e cacheado</h2>
+					</div>
+				</div>
+              </div>
+            </div>
+          </div>
+
         </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
       </div>
-
-      <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
-        <div class="col-xl-2 col-md-4">
-          <div class="icon-box">
-            <img src="assets/img/icons/bem-estar.jpg" alt="" class="img-fluid rounded-circle">
-            <h3><a href="">Bem Estar?</a></h3>
-          </div>
-        </div>
-        <div class="col-xl-2 col-md-4">
-          <div class="icon-box">
-            <img src="assets/img/icons/auto-aceitacao.jpg" alt="" class="img-fluid rounded-circle">
-            <h3><a href="">Auto Aceitação?</a></h3>
-          </div>
-        </div>
-        <div class="col-xl-2 col-md-4">
-          <div class="icon-box">
-            <img src="assets/img/icons/auto-estima.jpg" alt="" class="img-fluid rounded-circle">
-            <h3><a href="">Auto Estima?</a></h3>
-          </div>
-        </div>
-        <div class="col-xl-2 col-md-4">
-          <div class="icon-box">
-            <img src="assets/img/icons/felicidade.jpg" alt="" class="img-fluid rounded-circle">
-            <h3><a href="">Felicidade?</a></h3>
-          </div>
-        </div>
-        <div class="col-xl-2 col-md-4">
-          <div class="icon-box">
-            <img src="assets/img/icons/cachos.jpg" alt="" class="img-fluid rounded-circle">
-            <h3><a href="">A Solução é Cahos Bem Cuidados</a></h3>
-          </div>
-        </div>
-      </div>
-
     </div>
-  </section><!-- End Hero -->
+  </section><!-- End Hero Section -->
 
   <main id="main">
 
@@ -261,7 +315,7 @@
 		  <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Big Shop - BC</a></h4>
+              <h4><a href="">Big SHOP - BC</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -880,9 +934,11 @@
     </div>
   </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+	
+	
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
@@ -890,7 +946,6 @@
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
   <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
   <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
