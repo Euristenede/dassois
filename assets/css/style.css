@@ -144,6 +144,23 @@ h1, h2, h3, h4, h5, h6 {
   margin: 5px auto;
   border: 8px solid #2c2f3f;
 }
+
+@media (max-width: 600px) {
+  #header .logo {
+	font-size: 20px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 768px) {
+#header .logo {
+	font-size: 25px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1200px) {
+#header .logo {
+	font-size: 25px;
+  }
+}
 /*--------------------------------------------------------------
 #  Get Startet Button
 --------------------------------------------------------------*/
@@ -167,7 +184,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 15px;
   }
 }
-
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -436,6 +452,20 @@ h1, h2, h3, h4, h5, h6 {
   #hero h2 {
     font-size: 20px;
     line-height: 24px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+	#hero {
+    height: auto;
+  }
+  #hero h1 {
+    font-size: 38px;
+    line-height: 46px;
+  }
+  #hero h2 {
+    font-size: 30px;
+    line-height: 34px;
   }
 }
 
