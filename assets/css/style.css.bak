@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0;
 }
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.85);
 }
 #header .logo {
   font-size: 32px;
@@ -1238,7 +1238,8 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  text-transform: uppercase;
+  color: #ffc451;
+  font-family: cursive;
 }
 #footer .footer-top .footer-info h3 span {
   color: #ffc451;

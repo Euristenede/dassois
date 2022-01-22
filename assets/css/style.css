@@ -1238,10 +1238,11 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  text-transform: uppercase;
+  color: #ffc451;
+  font-family: cursive;
 }
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #fff;
 }
 #footer .footer-top .footer-info p {
   font-size: 14px;
