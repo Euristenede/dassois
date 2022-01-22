@@ -11,7 +11,7 @@
 
   <!-- Favicons -->
   <link href="assets/img/icone.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/icone.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -63,7 +63,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#about" class="get-started-btn scrollto">Vamos lá!</a>
+      <a href="https://www.hotmart.com/product/e-book-dassois-cacheadas-onduladas-e-crespas/P64485347D" class="get-started-btn scrollto">Nosso E-book!</a>
 
     </div>
   </header><!-- End Header -->
@@ -82,32 +82,32 @@
       <div class="row gy-4 mt-5 justify-content-center" data-aos="zoom-in" data-aos-delay="250">
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-store-line"></i>
-            <h3><a href="">Lorem Ipsum</a></h3>
+            <img src="assets/img/icons/bem-estar.jpg" alt="" class="img-fluid rounded-circle">
+            <h3><a href="">Bem Estar?</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">Dolor Sitema</a></h3>
+            <img src="assets/img/icons/auto-aceitacao.jpg" alt="" class="img-fluid rounded-circle">
+            <h3><a href="">Auto Aceitação?</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-calendar-todo-line"></i>
-            <h3><a href="">Sedare Perspiciatis</a></h3>
+            <img src="assets/img/icons/auto-estima.jpg" alt="" class="img-fluid rounded-circle">
+            <h3><a href="">Auto Estima?</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-paint-brush-line"></i>
-            <h3><a href="">Magni Dolores</a></h3>
+            <img src="assets/img/icons/felicidade.jpg" alt="" class="img-fluid rounded-circle">
+            <h3><a href="">Felicidade?</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <i class="ri-database-2-line"></i>
-            <h3><a href="">Nemos Enimade</a></h3>
+            <img src="assets/img/icons/cachos.jpg" alt="" class="img-fluid rounded-circle">
+            <h3><a href="">A Solução é Cahos Bem Cuidados</a></h3>
           </div>
         </div>
       </div>
@@ -155,22 +155,22 @@
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
+              <h4>Nossa Missão</h4>
               <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
+              <h4>Nossos Valores</h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
+              <h4>Em que Acreditamos</h4>
               <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
+              <h4>O que esperamos de nossos clientes</h4>
               <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
             </div>
           </div>
@@ -213,7 +213,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
+              <h4><a href="">Cronograma Capilar</a></h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
@@ -221,7 +221,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
+              <h4><a href="">Cortes e Penteados</a></h4>
               <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
@@ -229,7 +229,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
+              <h4><a href="">Óleoterapia e Argiloterapia</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
@@ -237,7 +237,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
+              <h4><a href="">Coloração e Descoloração</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -245,7 +245,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
+              <h4><a href="">Tranças</a></h4>
               <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
           </div>
@@ -253,7 +253,31 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
+              <h4><a href="">Transição Capilar</a></h4>
+              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-world"></i></div>
+              <h4><a href="">Big Shop - BC</a></h4>
+              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <h4><a href="">Método Entrelace</a></h4>
+              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-arch"></i></div>
+              <h4><a href="">Ativação de Cachos</a></h4>
               <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
@@ -268,9 +292,9 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Call To Action</h3>
-          <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h3>Está gostando do nosso trabalho?</h3>
+          <p>Se você leu nossa história, verificou nossos serviços e ainda está com dúvidas. Role a página um pouquinho mais para baixo para ver os nossos resultados. Se está contente até aqui, clique no botão abaixo e marque o seu horário!</p>
+          <a class="cta-btn" href="#contact">Marcar Horário</a>
         </div>
 
       </div>
@@ -577,7 +601,7 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/kriskarolaine/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -595,7 +619,7 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/brunajovannaprofissional/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
@@ -613,13 +637,13 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/lp_braidsafro/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
-                <h4>Luane</h4>
-                <span>Especialista em Tranças</span>
+                <h4>Lauane Pereira</h4>
+                <span>Especialista em CURVATURAS e trancista</span>
               </div>
             </div>
           </div>
@@ -631,13 +655,85 @@
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.instagram.com/euristenede_santos/"><i class="bi bi-instagram"></i></a>
                   <a href=""><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
               <div class="member-info">
                 <h4>Euristenede Santos</h4>
                 <span>Tecnologia da Informação</span>
+              </div>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/team/krislen.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Lauane Monteiro</h4>
+                <span>Especialista em CURVATURAS</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="assets/img/team/bruna.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Sarah Montalvão</h4>
+                <span>Especialista em CURVATURAS (SURDA)</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="assets/img/team/luane.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Nayra Karolayne</h4>
+                <span>Assistente de Agendamento</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <div class="member-img">
+                <img src="assets/img/team/euristenede.jpg" class="img-fluid" alt="">
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href="https://www.facebook.com/euristenede.vanuel"><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href="https://www.linkedin.com/in/euristenede-s-1976abb1/"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Suellen Cinthia</h4>
+                <span>Especialista Trancista</span>
               </div>
             </div>
           </div>
@@ -657,60 +753,48 @@
         </div>
 
         <div>
-          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
-        </div>
+          <iframe style="border:0; width: 100%; height: 270px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3869.6366549794725!2d-46.63676428575343!3d-14.098613487285517!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x934e45b27b48a60f%3A0x5db1e737313b5265!2sAv.%20Vinte%20e%20Um%20de%20Abril%2C%20763-663%2C%20Iaciara%20-%20GO%2C%2073920-000!5e0!3m2!1spt-BR!2sbr!4v1642873280904!5m2!1spt-BR!2sbr" frameborder="0" allowfullscreen></iframe>
+		</div>
 
         <div class="row mt-5">
-
-          <div class="col-lg-4">
+          <div class="col-lg-3">
             <div class="info">
-              <div class="address">
+              <div class="email">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Localização:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Avenida 21 de Abril, Iaciara Goiás, Nº 763-663</p>
               </div>
-
+            </div>
+          </div>
+		  
+		  <div class="col-lg-3">
+            <div class="info">
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>afroandlisokris@gmail.com</p>
               </div>
-
-              <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Telefone:</h4>
-                <p>+1 5589 55488 55s</p>
-              </div>
-
             </div>
-
           </div>
-
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Seu Nome" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Seu Email" required>
-                </div>
+		  
+		  <div class="col-lg-3">
+			<div class="info">
+			  <div class="phone">
+				<i class="bi bi-phone"></i>
+                <h4>Telefone:</h4>
+                <p>+55 (62) 9 9634-5138</p>
               </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Assunto" required>
+			</div>
+          </div>
+		  
+		  <div class="col-lg-3">
+			<div class="info">
+			  <div class="phone">
+				<i class="bi bi-phone"></i>
+                <h4>Telefone para Agendamento:</h4>
+                <p>+55 (62) 9 9825-7173</p>
               </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Mensagem" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Sua mensagem foi enviada com sucesso. Obrigado!</div>
-              </div>
-              <div class="text-center"><button type="submit">Enviar Mensagem</button></div>
-            </form>
-
+			</div>
           </div>
 
         </div>
@@ -730,15 +814,15 @@
             <div class="footer-info">
               <h3>Afroandlisokris<span>.</span></h3>
               <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Telefone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
+                Avenida 21 de Abril <br>
+                Iaciara Goiás, Nº 763-663<br><br>
+                <strong>Telefone:</strong> +55 (62) 9 9634-5138<br>
+                <strong>Email:</strong> afroandlisokris@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/afroandlisokris/" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
                 <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
@@ -748,22 +832,24 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Links Úteis</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Início</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Sobre</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Serviços</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Equipe</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Politica de Privacidade</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Início</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Sobre</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Serviços</a></li>
+			  <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portfólio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Equipe</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contato</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Nossos serviços</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Hidratação</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Humectação</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tratamento na Raíz</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Tranças</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Entrelançe</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Cronograma Capilar</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Cortes e Penteados</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Óleoterapia e Argiloterapia</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Tranças e Entrelance</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Transição Capilar</a></li>
+			  <li><i class="bx bx-chevron-right"></i> <a href="#services">Ativação de Cachos</a></li>
             </ul>
           </div>
 
