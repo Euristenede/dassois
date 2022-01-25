@@ -257,6 +257,7 @@
             <div class="swiper-slide"><img src="assets/img/clients/skafe.jpg" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/natuhair.jpg" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/riquezasterra.jpg" class="img-fluid" alt=""></div>
+			<div class="swiper-slide"><img src="assets/img/clients/arvenis.jpg" class="img-fluid" alt=""></div>
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -615,7 +616,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <h3>Neca</h3>
-                <h4>Freelancer</h4>
+                <h4>Clienssol</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
                   Que linda arrasou, obrigado pelo trabalho.
@@ -692,7 +693,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
               <div class="member-img">
-                <img src="assets/img/team/luane.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/naira.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -701,7 +702,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Naira Karolyne</h4>
+                <h4>NaYra Karolyne</h4>
                 <span>Assistente de Agendamento</span>
               </div>
             </div>
