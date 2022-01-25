@@ -59,12 +59,10 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfólio</a></li>
           <li><a class="nav-link scrollto" href="#team">Equipe</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contato</a></li>
-		  <li><a href="https://www.hotmart.com/product/e-book-dassois-cacheadas-onduladas-e-crespas/P64485347D" class="get-started-btn scrollto">Nosso E-book!</a></li>
+		  <li><a href="https://www.hotmart.com/product/e-book-dassois-cacheadas-onduladas-e-crespas/P64485347D?ref=D65728204U" class="get-started-btn scrollto">Nosso E-book!</a></li>
 		</ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-
-	  <a href="https://www.hotmart.com/product/e-book-dassois-cacheadas-onduladas-e-crespas/P64485347D" class="get-started-btn scrollto">Nosso E-book!</a>
 	
     </div>
   </header><!-- End Header -->
@@ -278,73 +276,73 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/servicos/cronograma.jpg" class="img-fluid rounded-circle" alt=""></div>
+              <div class="icon"><img src="assets/img/servicos/cronograma.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Cronograma Capilar</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p>Etapas para conseguir coquistar a identidade real do seu hair.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/servicos/penteados.jpg" class="img-fluid rounded-circle" alt=""></div>
+              <div class="icon"><img src="assets/img/servicos/penteados.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Cortes e Penteados</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p>Cortes e penteados especializados para cabelos cacheados, ondulados e crespos.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <div class="icon"><img src="assets/img/servicos/oleoterapia.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Óleoterapia e Argiloterapia</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p>Tratamentos para fortificar seu bulbo capilar.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/servicos/descoloracao.jpg" class="img-fluid rounded-circle" alt=""></div>
+              <div class="icon"><img src="assets/img/servicos/descoloracao.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Coloração e Descoloração</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>Técnicas e produtos específicos para seu hair com curvaturas.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><img src="assets/img/servicos/tranca.jpg" class="img-fluid rounded-circle" alt=""></div>
+              <div class="icon"><img src="assets/img/servicos/tranca.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Tranças</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>Representando a beleza da comunidade negra.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
+              <div class="icon"><img src="assets/img/servicos/transicao.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Transição Capilar</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p>Processo de autoaceitação que exige paciência, amor e empatia.</p>
             </div>
           </div>
 		  
 		  <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              <div class="icon"><img src="assets/img/servicos/bigchop.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Big CHOP - BC</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p>Etapa chave para sua liberdade.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
+              <div class="icon"><img src="assets/img/servicos/entrelace.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Método Entrelace</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p>Possibilidade de ter o cabelo que desejar.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
+              <div class="icon"><img src="assets/img/servicos/cachos.jpg" class="img-fluid" alt=""></div>
               <h4><a href="">Ativação de Cachos</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p>Tranformação de sua curvatura.</p>
             </div>
           </div>
 
@@ -580,12 +578,11 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h3>Elisangela</h3>
+                <h4>Clienssol</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Nossa que transformação, nunca me senti tão linda assim. Sou outra mulher e a partir de hoje me chamo Elis, muito obrigado pelo seu trabalho.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -593,12 +590,11 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <h3>Aparecida</h3>
+                <h4>Clienssol</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  Genial, se pelas fotos gostei, estou ansiosa para ver pessoalmente, parabéns pelo belíssimo trabalho, amei.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -606,12 +602,11 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
+                <h3>Aldinéia</h3>
+                <h4>Clienssol</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Ótimo resultado, satisfeita.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -619,12 +614,11 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
+                <h3>Neca</h3>
                 <h4>Freelancer</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  Que linda arrasou, obrigado pelo trabalho.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -632,12 +626,11 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
+                <h3>Catiele</h3>
+                <h4>Clienssol</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Quanta perfeição, sucesso na sua caminhada Krislen, queria ter a oportunidade de arrumar meus cabelos com você, um dia vou conseguir.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -673,7 +666,7 @@
               </div>
               <div class="member-info">
                 <h4>Krislen Karolãine</h4>
-                <span>CEO</span>
+                <span>Proprietária e Colaboradora</span>
               </div>
             </div>
           </div>
@@ -690,8 +683,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Bruna Cacheada</h4>
-                <span>Especialista em Cachos</span>
+                <h4>Bruna Jovanna</h4>
+                <span>Sócia e Colaboradora</span>
               </div>
             </div>
           </div>
@@ -708,79 +701,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Lauane Pereira</h4>
-                <span>Especialista em CURVATURAS e trancista</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <div class="member-img">
-                <img src="assets/img/team/euristenede.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Kamilly Gomes</h4>
-                <span>Especialista em Curvaturas</span>
-              </div>
-            </div>
-          </div>
-		  
-		  <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <div class="member-img">
-                <img src="assets/img/team/krislen.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Lauane Monteiro</h4>
-                <span>Especialista em CURVATURAS</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <div class="member-img">
-                <img src="assets/img/team/bruna.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Montalvão</h4>
-                <span>Especialista em CURVATURAS (SURDA)</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <div class="member-img">
-                <img src="assets/img/team/luane.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Nayra Karolayne</h4>
+                <h4>Naira Karolyne</h4>
                 <span>Assistente de Agendamento</span>
               </div>
             </div>
@@ -798,8 +719,8 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Suellen Cinthia</h4>
-                <span>Especialista Trancista</span>
+                <h4>Euristenede Santos</h4>
+                <span>Diretor de tecnologia da informação</span>
               </div>
             </div>
           </div>
