@@ -334,7 +334,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><img src="assets/img/servicos/entrelace.jpg" class="img-fluid" alt=""></div>
-              <h4><a href="">Método Entrelace</a></h4>
+              <h4><a href="">Método Nina</a></h4>
               <p>Possibilidade de ter o cabelo que desejar.</p>
             </div>
           </div>
@@ -400,6 +400,21 @@
               </div>
             </div>
           </div>
+
+		  <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/cenoura.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4></h4>
+                <p>Ondulados</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/cenoura.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
@@ -799,7 +814,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Cronograma Capilar</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Cortes e Penteados</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Óleoterapia e Argiloterapia</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#services">Tranças e Entrelance</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Tranças e Nina</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#services">Transição Capilar</a></li>
 			  <li><i class="bx bx-chevron-right"></i> <a href="#services">Ativação de Cachos</a></li>
             </ul>
